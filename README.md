@@ -10,4 +10,11 @@ Here are the changes I made to the existing code to meet the requirements:
 
 3. The navigation bar at the top of the page was listed as a <div> in the html code. I changed this to a <nav> tag to appropriately represent what it is. I also replaced a few more <div> tags with <section> and <aside> tags, where appropriate.
 
-4. 
+4. For all <img> tags, I added an alt attribute to properly describe the images and and improve the website's accessibility. 
+
+5. Rearranged the CSS to properly match the HTML changes. Also, changed the order of a few elements to flow better and consolidated any parent-child duplicates. 
+
+Screenshot of webpage has been attached to the README file. 
+
+Link to live website: 
+
