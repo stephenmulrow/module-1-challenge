@@ -16,6 +16,8 @@ Here are the changes I made to the existing code to meet the requirements:
 
 6. Deleted header div ul css property, was redudent since there is already a display on the next css declaration below it. 
 
+7. Changed footer from h2 to h4 to keep the heading elements in sequential order. 
+
 Screenshot of webpage has been attached to the README file. 
 
 Link to live website: 
