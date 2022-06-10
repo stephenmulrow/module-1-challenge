@@ -14,7 +14,12 @@ Here are the changes I made to the existing code to meet the requirements:
 
 5. Rearranged the CSS to properly match the HTML changes. Also, changed the order of a few elements to flow better and consolidated any parent-child duplicates. 
 
+6. Deleted header div ul css property, was redudent since there is already a display on the next css declaration below it. 
+
 Screenshot of webpage has been attached to the README file. 
 
 Link to live website: 
+
+https://stephenmulrow.github.io/module-1-challenge/#online-reputation-management
+
 
